@@ -1,2 +1,1 @@
-# resume
-My design resume
+![resume](resume-design.png "Resume")
